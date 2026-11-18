@@ -1,0 +1,44 @@
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments
+env/
+venv/
+.venv/
+ENV/
+
+# Conda
+.conda/
+
+# Streamlit
+.streamlit/
+
+# Environment Variables
+.env
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+*.egg-info/
+archive.zip
+
+Artifacts/similarity.pkl
+archive.zip
+*.egg-info/
+#Artifacts/similarity.pkl
+Artifacts/movie_list.pkl
+env/
